@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KMS_DataVisualize/static/css/main.2d944798.css",
+    "main.js": "/KMS_DataVisualize/static/js/main.c160ecf6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/KMS_DataVisualize/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/KMS_DataVisualize/index.html",
+    "main.2d944798.css.map": "/KMS_DataVisualize/static/css/main.2d944798.css.map",
+    "main.c160ecf6.js.map": "/KMS_DataVisualize/static/js/main.c160ecf6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/KMS_DataVisualize/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d944798.css",
+    "static/js/main.c160ecf6.js"
+  ]
+}
