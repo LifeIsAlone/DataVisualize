@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/KMS_DataVisualize/static/css/main.2d944798.css",
-    "main.js": "/KMS_DataVisualize/static/js/main.ea6c0b9f.js",
+    "main.js": "/KMS_DataVisualize/static/js/main.2612546e.js",
     "static/js/787.28cb0dcd.chunk.js": "/KMS_DataVisualize/static/js/787.28cb0dcd.chunk.js",
     "static/media/analysis.png": "/KMS_DataVisualize/static/media/analysis.9b7665d64d58e858e223.png",
     "index.html": "/KMS_DataVisualize/index.html",
     "main.2d944798.css.map": "/KMS_DataVisualize/static/css/main.2d944798.css.map",
-    "main.ea6c0b9f.js.map": "/KMS_DataVisualize/static/js/main.ea6c0b9f.js.map",
+    "main.2612546e.js.map": "/KMS_DataVisualize/static/js/main.2612546e.js.map",
     "787.28cb0dcd.chunk.js.map": "/KMS_DataVisualize/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d944798.css",
-    "static/js/main.ea6c0b9f.js"
+    "static/js/main.2612546e.js"
   ]
 }
